@@ -2,7 +2,7 @@ def cal(pi=3.1415):
     dash = "-" * 300
     arrow = "->"* 35
     thinking_face = "🤔" * 5
-    sad_face = ":(" *6
+    sad_face = ":(" *5
     emojii = "😆" *100
     print(f"{dash}\nThis is a simple calculator program.")  
     while True:
